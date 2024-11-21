@@ -12,3 +12,11 @@ for (int i = 0; i < sum; i++)
 }
 
 Console.ReadLine();
+
+int [] mas = new int [5];
+
+for (int i = 0;i < mas.Length;i++)
+{
+    mas[i] = i;
+    Console.WriteLine(i);
+}   
