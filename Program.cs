@@ -12,3 +12,11 @@ for (int i = 0; i < sum; i++)
 }
 
 Console.ReadLine();
+
+do {  Console.ReadLine(); }
+while (true);
+
+for (int i = 0;i < sum; i++)
+{ 
+    Console.WriteLine(i);
+}
